@@ -1,2 +1,2 @@
 # css-grid-example
-CSS grid layout example
+Building a responsive page with css grid.
